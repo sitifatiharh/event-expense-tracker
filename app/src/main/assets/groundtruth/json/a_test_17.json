@@ -1,0 +1,25 @@
+{
+  "nama_toko": "ALFAMART",
+  "tanggal": "09/12/2022",
+  "total_belanja": "37,500",
+  "items": [
+    {
+      "nama_barang": "FF PFLF VN225ML",
+      "jumlah": "1",
+      "harga_satuan": "9,000",
+      "harga_total_barang": "9,000"
+    },
+    {
+      "nama_barang": "MYROTI S CHS80G",
+      "jumlah": "2",
+      "harga_satuan": "9,500",
+      "harga_total_barang": "19,000"
+    },
+    {
+      "nama_barang": "MYROTI SC RV71G",
+      "jumlah": "1",
+      "harga_satuan": "9,500",
+      "harga_total_barang": "9,500"
+    }
+  ]
+}

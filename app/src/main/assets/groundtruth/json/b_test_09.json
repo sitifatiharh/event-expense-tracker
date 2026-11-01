@@ -1,0 +1,13 @@
+{
+  "nama_toko": "FADIL TEKNIK",
+  "tanggal": "20/06/2026",
+  "total_belanja": "35.000,00",
+  "items": [
+    {
+      "nama_barang": "LAMPU LIGERA PLATINUM LED 20W",
+      "jumlah": "1",
+      "harga_satuan": "35000",
+      "harga_total_barang": "35.000,00"
+    }
+  ]
+}

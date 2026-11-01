@@ -1,0 +1,55 @@
+{
+  "nama_toko": "O!SAVE",
+  "tanggal": "01/07/2026",
+  "total_belanja": "80.500",
+  "items": [
+    {
+      "nama_barang": "Maya Sardines Tomat 155g",
+      "jumlah": "1",
+      "harga_satuan": "9.900",
+      "harga_total_barang": "9.900"
+    },
+    {
+      "nama_barang": "Maya Sardines Tomat 155g",
+      "jumlah": "1",
+      "harga_satuan": "9.900",
+      "harga_total_barang": "9.900"
+    },
+    {
+      "nama_barang": "Maya Sardines Chili 155gr",
+      "jumlah": "1",
+      "harga_satuan": "9.900",
+      "harga_total_barang": "9.900"
+    },
+    {
+      "nama_barang": "Maya Sardines Chili 155gr",
+      "jumlah": "1",
+      "harga_satuan": "9.900",
+      "harga_total_barang": "9.900"
+    },
+    {
+      "nama_barang": "Dr White Soft FamilyPack 3pc",
+      "jumlah": "1",
+      "harga_satuan": "10.600",
+      "harga_total_barang": "10.600"
+    },
+    {
+      "nama_barang": "Ciptadent Fresh Mint 225gr",
+      "jumlah": "1",
+      "harga_satuan": "10.500",
+      "harga_total_barang": "10.500"
+    },
+    {
+      "nama_barang": "Ciptadent Fresh Mint 225gr",
+      "jumlah": "24",
+      "harga_satuan": "400",
+      "harga_total_barang": "10.500"
+    },
+    {
+      "nama_barang": "Zinc AntiDandruff Shampoo 10",
+      "jumlah": "1",
+      "harga_satuan": "9.600",
+      "harga_total_barang": "9.600"
+    }
+  ]
+}

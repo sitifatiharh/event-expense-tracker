@@ -1,0 +1,43 @@
+{
+  "nama_toko": "Andalan ATK - Pekapuran",
+  "tanggal": "10/10/2023",
+  "total_belanja": "432.000",
+  "items": [
+    {
+      "nama_barang": "Kertas flip Chart 57x85--@25 lbr",
+      "jumlah": "3",
+      "harga_satuan": "75.000",
+      "harga_total_barang": "225.000"
+    },
+    {
+      "nama_barang": "AL EK-5100A BR 4974052839344",
+      "jumlah": "1",
+      "harga_satuan": "23.000",
+      "harga_total_barang": "23.000"
+    },
+    {
+      "nama_barang": "AL EK-5109A BR 4974052839429",
+      "jumlah": "2",
+      "harga_satuan": "23.000",
+      "harga_total_barang": "46.000"
+    },
+    {
+      "nama_barang": "AL EK-5100A RD 4974052839351",
+      "jumlah": "2",
+      "harga_satuan": "23.000",
+      "harga_total_barang": "46.000"
+    },
+    {
+      "nama_barang": "AL EK-5109A RD 4974052839436",
+      "jumlah": "1",
+      "harga_satuan": "23.000",
+      "harga_total_barang": "23.000"
+    },
+    {
+      "nama_barang": "AL EK-5109A Black 4974052839337",
+      "jumlah": "3",
+      "harga_satuan": "23.000",
+      "harga_total_barang": "69.000"
+    }
+  ]
+}

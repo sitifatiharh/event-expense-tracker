@@ -1,0 +1,19 @@
+{
+  "nama_toko": "TOKO LISTRIK TERANG",
+  "tanggal": "04/01/2024",
+  "total_belanja": "195,600",
+  "items": [
+    {
+      "nama_barang": "MYVO LAMPU LILIN E14 WW 5W",
+      "jumlah": "13",
+      "harga_satuan": "12,000",
+      "harga_total_barang": "156,000"
+    },
+    {
+      "nama_barang": "PANASONIC LAMPU LED NEO 3W KUN",
+      "jumlah": "2",
+      "harga_satuan": "19,800",
+      "harga_total_barang": "39,600"
+    }
+  ]
+}

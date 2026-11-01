@@ -1,0 +1,25 @@
+{
+  "nama_toko": "RAFFEL'S LIVING WORLD GRAND WISATA",
+  "tanggal": "30/03/2026",
+  "total_belanja": "66.000",
+  "items": [
+    {
+      "nama_barang": "Paper Bag Small",
+      "jumlah": "1",
+      "harga_satuan": "2.000",
+      "harga_total_barang": "2.000"
+    },
+    {
+      "nama_barang": "Korean Style Roast Beef & Egg",
+      "jumlah": "1",
+      "harga_satuan": "29.000",
+      "harga_total_barang": "29.000"
+    },
+    {
+      "nama_barang": "Roast Beef Sandwich",
+      "jumlah": "1",
+      "harga_satuan": "29.000",
+      "harga_total_barang": "29.000"
+    }
+  ]
+}

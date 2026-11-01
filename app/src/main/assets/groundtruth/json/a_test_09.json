@@ -1,0 +1,43 @@
+{
+  "nama_toko": "SUSHI TEI",
+  "tanggal": "20/02/2017",
+  "total_belanja": "232,953",
+  "items": [
+    {
+      "nama_barang": "Iced Sweet Lychee Tea",
+      "jumlah": "1",
+      "harga_satuan": "20,000",
+      "harga_total_barang": "20,000"
+    },
+    {
+      "nama_barang": "Azuki Monaka",
+      "jumlah": "1",
+      "harga_satuan": "34,000",
+      "harga_total_barang": "34,000"
+    },
+    {
+      "nama_barang": "Ikura GK",
+      "jumlah": "1",
+      "harga_satuan": "52,000",
+      "harga_total_barang": "52,000"
+    },
+    {
+      "nama_barang": "Black Caviar GK",
+      "jumlah": "1",
+      "harga_satuan": "24,000",
+      "harga_total_barang": "24,000"
+    },
+    {
+      "nama_barang": "Yakitori Ju",
+      "jumlah": "1",
+      "harga_satuan": "52,000",
+      "harga_total_barang": "52,000"
+    },
+    {
+      "nama_barang": "Tamagoyaki",
+      "jumlah": "1",
+      "harga_satuan": "15,000",
+      "harga_total_barang": "15,000"
+    }
+  ]
+}

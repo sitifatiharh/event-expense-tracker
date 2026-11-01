@@ -1,0 +1,54 @@
+{
+  "nama_toko": "INDOMARET",
+  "tanggal": "14/07/2026",
+  "total_belanja": "107,500",
+  "diskon": "9,000",
+  "items": [
+    {
+      "nama_barang": "SOFTEX PL D.SRH 30'S",
+      "jumlah": "1",
+      "harga_satuan": "16100",
+      "harga_total_barang": "16,100",
+      "diskon": "(1,600)"
+    },
+    {
+      "nama_barang": "SOFTEX DS S.WG 12'S",
+      "jumlah": "1",
+      "harga_satuan": "20900",
+      "harga_total_barang": "20,900"
+    },
+    {
+      "nama_barang": "LAURIER X-TRA MX 10S",
+      "jumlah": "1",
+      "harga_satuan": "8600",
+      "harga_total_barang": "8,600",
+      "diskon": "(1,000)"
+    },
+    {
+      "nama_barang": "SOKLIN PWG HJB GR780",
+      "jumlah": "1",
+      "harga_satuan": "12700",
+      "harga_total_barang": "12,700",
+      "diskon": "(2,500)"
+    },
+    {
+      "nama_barang": "AUTAN LOT.SAKURA 50",
+      "jumlah": "1",
+      "harga_satuan": "13800",
+      "harga_total_barang": "13,800",
+      "diskon": "(3,900)"
+    },
+    {
+      "nama_barang": "IDM KTG PLSTK 1W BSR",
+      "jumlah": "1",
+      "harga_satuan": "500",
+      "harga_total_barang": "500"
+    },
+    {
+      "nama_barang": "ABC LR03-AAA/4S MPWR",
+      "jumlah": "1",
+      "harga_satuan": "43900",
+      "harga_total_barang": "43,900"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "nama_toko": "ROTI'O ST DURI 2",
+  "tanggal": "15/10/2025",
+  "total_belanja": "42,000",
+  "items": [
+    {
+      "nama_barang": "ROTI'O",
+      "jumlah": "3",
+      "harga_satuan": "14,000",
+      "harga_total_barang": "42,000"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "nama_toko": "Crystal Bakery",
+  "tanggal": "05/01/2024",
+  "total_belanja": "121,000",
+  "items": [
+    {
+      "nama_barang": "ROTI COKLAT KEJU",
+      "jumlah": "11",
+      "harga_satuan": "11.000",
+      "harga_total_barang": "121,000"
+    }
+  ]
+}

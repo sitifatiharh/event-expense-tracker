@@ -1,0 +1,30 @@
+Waroeng Djoglo
+No Nota : CS/05/240723/0007
+Waktu : 23 Jul 24 19:26
+Order : Agus
+Kasir : Agus
+Jenis Order : Free Table
+Nama Order : E1
+1 Soto daging 27,000
+1 Mie goreng 25,000
+3 Sop iga 141,000
+1 Nasi goreng 25,000
+1 Telur 5,000
+1 Tahu goreng 15,000
+2 Tempe mendoan 30,000
+2 Jeruk kencur jahe 40,000
+2 Wedang uwuh 40,000
+1 Jahe aren 18,000
+2 d'Joglo aren 46,000
+1 Teh 7,000
+2 Teh jahe 36,000
+1 Air Mineral 5,000
+1 Nasi putih 5,000
+3 Kerupuk bawang 15,000
+Subtotal 25 Produk 480,000
+Pajak 48,000
+Total Tagihan 528,000
+EDC 528,000
+QRIS BRI - Bank Aceh Syariah
+Total Bayar 528,000
+Terbayar

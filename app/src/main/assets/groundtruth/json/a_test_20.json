@@ -1,0 +1,40 @@
+{
+  "nama_toko": "ALFAMIDI",
+  "tanggal": "22/06/2026",
+  "total_belanja": "64,900",
+  "diskon": "9,800",
+  "items": [
+    {
+      "nama_barang": "MSLMN J.NPS680",
+      "jumlah": "1",
+      "harga_satuan": "10,700",
+      "harga_total_barang": "10,700",
+      "diskon": "-1,800"
+    },
+    {
+      "nama_barang": "SYSTEMA TB ACT",
+      "jumlah": "1",
+      "harga_satuan": "23,200",
+      "harga_total_barang": "23,200",
+      "diskon": "-8,000"
+    },
+    {
+      "nama_barang": "GIV WHITE 400",
+      "jumlah": "1",
+      "harga_satuan": "20,500",
+      "harga_total_barang": "20,500"
+    },
+    {
+      "nama_barang": "SASHA SIWAK 150",
+      "jumlah": "1",
+      "harga_satuan": "19,800",
+      "harga_total_barang": "19,800"
+    },
+    {
+      "nama_barang": "MIDI REGL",
+      "jumlah": "1",
+      "harga_satuan": "500",
+      "harga_total_barang": "500"
+    }
+  ]
+}

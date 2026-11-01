@@ -1,0 +1,13 @@
+{
+  "nama_toko": "Monetta",
+  "tanggal": "20/11/2023",
+  "total_belanja": "125,000",
+  "items": [
+    {
+      "nama_barang": "B.BAD SAXON PRO",
+      "jumlah": "1 SLOP",
+      "harga_satuan": "125,000",
+      "harga_total_barang": "125,000"
+    }
+  ]
+}

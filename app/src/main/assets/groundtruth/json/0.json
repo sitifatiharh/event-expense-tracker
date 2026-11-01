@@ -1,0 +1,37 @@
+{
+  "nama_toko": "Indomaret",
+  "tanggal": "01/10/2022",
+  "total_belanja": "175,100",
+  "items": [
+    {
+      "nama_barang": "AQUA AIR MIN BTL1500",
+      "jumlah": "1",
+      "harga_satuan": "6400",
+      "harga_total_barang": "6,400"
+    },
+    {
+      "nama_barang": "ICHITAN CLD BRW SHR250",
+      "jumlah": "1",
+      "harga_satuan": "9000",
+      "harga_total_barang": "9,000"
+    },
+    {
+      "nama_barang": "WALLS CAPPUCINO 55ML",
+      "jumlah": "1",
+      "harga_satuan": "5000",
+      "harga_total_barang": "5,000"
+    },
+    {
+      "nama_barang": "ATOZ DRUM CRISPY 90",
+      "jumlah": "1",
+      "harga_satuan": "4700",
+      "harga_total_barang": "4,700"
+    },
+    {
+      "nama_barang": "PEMBAYARAN SHOPEEPAY",
+      "jumlah": "1",
+      "harga_satuan": "150000",
+      "harga_total_barang": "150,000"
+    }
+  ]
+}

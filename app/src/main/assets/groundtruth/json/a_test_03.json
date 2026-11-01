@@ -1,0 +1,13 @@
+{
+  "nama_toko": "NIKIMURA PET SHOP",
+  "tanggal": "25/06/2026",
+  "total_belanja": "18.000",
+  "items": [
+    {
+      "nama_barang": "CC Sachet Adult Tuna",
+      "jumlah": "3",
+      "harga_satuan": "6.000",
+      "harga_total_barang": "18.000"
+    }
+  ]
+}

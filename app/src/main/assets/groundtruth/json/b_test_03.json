@@ -1,0 +1,62 @@
+{
+  "nama_toko": "FAMILI MART",
+  "tanggal": "15/10/2025",
+  "total_belanja": "122.330",
+  "items": [
+    {
+      "nama_barang": "KISPRAY GOLD REFIL 280M/24",
+      "jumlah": "1",
+      "harga_satuan": "13.700",
+      "harga_total_barang": "13.700"
+    },
+    {
+      "nama_barang": "VIXAL PORS HIJAU 350M/12",
+      "jumlah": "1",
+      "harga_satuan": "8.600",
+      "harga_total_barang": "8.600"
+    },
+    {
+      "nama_barang": "CIPTADENT 190G WHITENING/24",
+      "jumlah": "2",
+      "harga_satuan": "13.500",
+      "harga_total_barang": "27.000"
+    },
+    {
+      "nama_barang": "GIV BENGKOANG REF 450ML",
+      "jumlah": "2",
+      "harga_satuan": "13.500",
+      "harga_total_barang": "26.330",
+      "diskon": "670"
+    },
+    {
+      "nama_barang": "SUNLIGHT LIME REF 420M/430M/",
+      "jumlah": "1",
+      "harga_satuan": "8.900",
+      "harga_total_barang": "8.900"
+    },
+    {
+      "nama_barang": "KODOMO SHAMPO GEL BTL 200 ST",
+      "jumlah": "1",
+      "harga_satuan": "10.300",
+      "harga_total_barang": "10.300"
+    },
+    {
+      "nama_barang": "INDOMIE SOTO",
+      "jumlah": "4",
+      "harga_satuan": "2.900",
+      "harga_total_barang": "11.600"
+    },
+    {
+      "nama_barang": "INDOMIE GORENG SPD",
+      "jumlah": "2",
+      "harga_satuan": "3.050",
+      "harga_total_barang": "6.100"
+    },
+    {
+      "nama_barang": "BANGO MANIS REF 200ML/265G/2",
+      "jumlah": "1",
+      "harga_satuan": "9.800",
+      "harga_total_barang": "9.800"
+    }
+  ]
+}

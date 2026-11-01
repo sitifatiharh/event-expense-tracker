@@ -1,0 +1,43 @@
+{
+  "nama_toko": "wizzmie",
+  "tanggal": "15/06/2026",
+  "total_belanja": "82.500",
+  "items": [
+    {
+      "nama_barang": "MIE GOYANG LV 3",
+      "jumlah": "1",
+      "harga_satuan": "14.090",
+      "harga_total_barang": "14.090"
+    },
+    {
+      "nama_barang": "RICE BOWL TERIYAKI",
+      "jumlah": "1",
+      "harga_satuan": "15.455",
+      "harga_total_barang": "15.455"
+    },
+    {
+      "nama_barang": "UDANG KEJU",
+      "jumlah": "1",
+      "harga_satuan": "12.727",
+      "harga_total_barang": "12.727"
+    },
+    {
+      "nama_barang": "EBI FURAI",
+      "jumlah": "1",
+      "harga_satuan": "15.000",
+      "harga_total_barang": "15.000"
+    },
+    {
+      "nama_barang": "AIR MINERAL",
+      "jumlah": "1",
+      "harga_satuan": "5.000",
+      "harga_total_barang": "5.000"
+    },
+    {
+      "nama_barang": "ROSEN ROSE",
+      "jumlah": "1",
+      "harga_satuan": "12.727",
+      "harga_total_barang": "12.727"
+    }
+  ]
+}

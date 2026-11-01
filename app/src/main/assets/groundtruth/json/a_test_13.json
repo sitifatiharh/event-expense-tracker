@@ -1,0 +1,19 @@
+{
+  "nama_toko": "HYPERMART LOKTABAT",
+  "tanggal": "01/07/2024",
+  "total_belanja": "51,970",
+  "items": [
+    {
+      "nama_barang": "GREENFIEDS UHT FULL",
+      "jumlah": "1",
+      "harga_satuan": "25,990",
+      "harga_total_barang": "25,990"
+    },
+    {
+      "nama_barang": "FRISIAN FLAG SCM SAC",
+      "jumlah": "2",
+      "harga_satuan": "12,990",
+      "harga_total_barang": "25,980"
+    }
+  ]
+}

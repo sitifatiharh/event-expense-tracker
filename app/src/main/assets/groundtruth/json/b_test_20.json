@@ -1,0 +1,103 @@
+{
+  "nama_toko": "Waroeng Djoglo",
+  "tanggal": "23/07/2024",
+  "total_belanja": "528,000",
+  "items": [
+    {
+      "nama_barang": "Soto daging",
+      "jumlah": "1",
+      "harga_satuan": "27,000",
+      "harga_total_barang": "27,000"
+    },
+    {
+      "nama_barang": "Mie goreng",
+      "jumlah": "1",
+      "harga_satuan": "25,000",
+      "harga_total_barang": "25,000"
+    },
+    {
+      "nama_barang": "Sop iga",
+      "jumlah": "3",
+      "harga_satuan": "47,000",
+      "harga_total_barang": "141,000"
+    },
+    {
+      "nama_barang": "Nasi goreng",
+      "jumlah": "1",
+      "harga_satuan": "25,000",
+      "harga_total_barang": "25,000"
+    },
+    {
+      "nama_barang": "Telur",
+      "jumlah": "1",
+      "harga_satuan": "5,000",
+      "harga_total_barang": "5,000"
+    },
+    {
+      "nama_barang": "Tahu goreng",
+      "jumlah": "1",
+      "harga_satuan": "15,000",
+      "harga_total_barang": "15,000"
+    },
+    {
+      "nama_barang": "Tempe mendoan",
+      "jumlah": "2",
+      "harga_satuan": "15,000",
+      "harga_total_barang": "30,000"
+    },
+    {
+      "nama_barang": "Jeruk kencur jahe",
+      "jumlah": "2",
+      "harga_satuan": "20,000",
+      "harga_total_barang": "40,000"
+    },
+    {
+      "nama_barang": "Wedang uwuh",
+      "jumlah": "2",
+      "harga_satuan": "20,000",
+      "harga_total_barang": "40,000"
+    },
+    {
+      "nama_barang": "Jahe aren",
+      "jumlah": "1",
+      "harga_satuan": "18,000",
+      "harga_total_barang": "18,000"
+    },
+    {
+      "nama_barang": "d'Joglo aren",
+      "jumlah": "2",
+      "harga_satuan": "23,000",
+      "harga_total_barang": "46,000"
+    },
+    {
+      "nama_barang": "Teh",
+      "jumlah": "1",
+      "harga_satuan": "7,000",
+      "harga_total_barang": "7,000"
+    },
+    {
+      "nama_barang": "Teh jahe",
+      "jumlah": "2",
+      "harga_satuan": "18,000",
+      "harga_total_barang": "36,000"
+    },
+    {
+      "nama_barang": "Air Mineral",
+      "jumlah": "1",
+      "harga_satuan": "5,000",
+      "harga_total_barang": "5,000"
+    },
+    {
+      "nama_barang": "Nasi putih",
+      "jumlah": "1",
+      "harga_satuan": "5,000",
+      "harga_total_barang": "5,000"
+    },
+    {
+      "nama_barang": "Kerupuk bawang",
+      "jumlah": "3",
+      "harga_satuan": "5,000",
+      "harga_total_barang": "15,000"
+    }
+  ]
+}

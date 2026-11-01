@@ -1,0 +1,25 @@
+{
+  "nama_toko": "KOKARMINA MART GRAND WISATA",
+  "tanggal": "01/11/2025",
+  "total_belanja": "23.000",
+  "items": [
+    {
+      "nama_barang": "PRIMA AIR MINERA",
+      "jumlah": "1",
+      "harga_satuan": "5.000",
+      "harga_total_barang": "5.000"
+    },
+    {
+      "nama_barang": "KHONG GUAN MALKI",
+      "jumlah": "1",
+      "harga_satuan": "9.000",
+      "harga_total_barang": "9.000"
+    },
+    {
+      "nama_barang": "JEKEZ ROTI/BOLU",
+      "jumlah": "1",
+      "harga_satuan": "9.000",
+      "harga_total_barang": "9.000"
+    }
+  ]
+}

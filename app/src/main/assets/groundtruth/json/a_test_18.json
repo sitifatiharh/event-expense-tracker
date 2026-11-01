@@ -1,0 +1,19 @@
+{
+  "nama_toko": "Kalia RSPP Persahabatan",
+  "tanggal": "10/11/2025",
+  "total_belanja": "35.000",
+  "items": [
+    {
+      "nama_barang": "PUDDING *mango chesse",
+      "jumlah": "1",
+      "harga_satuan": "17.000",
+      "harga_total_barang": "17.000"
+    },
+    {
+      "nama_barang": "DIMSUM *1 PORSI",
+      "jumlah": "1",
+      "harga_satuan": "18.000",
+      "harga_total_barang": "18.000"
+    }
+  ]
+}

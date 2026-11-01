@@ -1,0 +1,19 @@
+{
+  "nama_toko": "APOTEK SALWA",
+  "tanggal": "07/12/2025",
+  "total_belanja": "25.000,0",
+  "items": [
+    {
+      "nama_barang": "Nasal Oksigen Oxyflow",
+      "jumlah": "1,0",
+      "harga_satuan": "12.000,0",
+      "harga_total_barang": "12.000,0"
+    },
+    {
+      "nama_barang": "HansaPlast Disney & Princ",
+      "jumlah": "1,0",
+      "harga_satuan": "13.000,0",
+      "harga_total_barang": "13.000,0"
+    }
+  ]
+}

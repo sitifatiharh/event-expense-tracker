@@ -1,0 +1,14 @@
+{
+  "nama_toko": "FANIDA AP",
+  "tanggal": "09/06/2026",
+  "total_belanja": "145,000",
+  "diskon": "",
+  "items": [
+    {
+      "nama_barang": "FLAGYSTATIN SUPP",
+      "jumlah": "5",
+      "harga_satuan": "29,000",
+      "harga_total_barang": "145,000"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "nama_toko": "Nescafe",
+  "tanggal": "13/06/2026",
+  "total_belanja": "12.000",
+  "items": [
+    {
+      "nama_barang": "Caffé Latte Strong",
+      "jumlah": "1",
+      "harga_satuan": "12.000",
+      "harga_total_barang": "12.000"
+    }
+  ]
+}

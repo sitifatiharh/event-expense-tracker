@@ -1,0 +1,13 @@
+{
+  "nama_toko": "ROTI'O RS PERSAHABATAN JAKTIM",
+  "tanggal": "29/11/2025",
+  "total_belanja": "14,000",
+  "items": [
+    {
+      "nama_barang": "ROTI'O",
+      "jumlah": "1",
+      "harga_satuan": "14,000",
+      "harga_total_barang": "14,000"
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "nama_toko": "TOKO ASTY 1",
+  "tanggal": "14/07/2026",
+  "total_belanja": "155.000",
+  "items": [
+    {
+      "nama_barang": "TISSU SOFITA 250S",
+      "jumlah": "1",
+      "harga_satuan": "7.500",
+      "harga_total_barang": "7.500"
+    },
+    {
+      "nama_barang": "KUE SAGON",
+      "jumlah": "1",
+      "harga_satuan": "10.000",
+      "harga_total_barang": "10.000"
+    },
+    {
+      "nama_barang": "HOT HOT BALL",
+      "jumlah": "1",
+      "harga_satuan": "7.500",
+      "harga_total_barang": "7.500"
+    },
+    {
+      "nama_barang": "INTERBIS PEANUT 268G",
+      "jumlah": "1",
+      "harga_satuan": "11.000",
+      "harga_total_barang": "11.000"
+    },
+    {
+      "nama_barang": "PEPSODENT 190G",
+      "jumlah": "1",
+      "harga_satuan": "13.000",
+      "harga_total_barang": "13.000"
+    },
+    {
+      "nama_barang": "ROMA KELAPA 300 GR",
+      "jumlah": "1",
+      "harga_satuan": "9.000",
+      "harga_total_barang": "9.000"
+    },
+    {
+      "nama_barang": "SABUN ZEN",
+      "jumlah": "1",
+      "harga_satuan": "10.000",
+      "harga_total_barang": "10.000"
+    },
+    {
+      "nama_barang": "HIT KALENG 600ML",
+      "jumlah": "1",
+      "harga_satuan": "32.000",
+      "harga_total_barang": "32.000"
+    },
+    {
+      "nama_barang": "TERIGU LM 25KG KARUNGAN",
+      "jumlah": "1",
+      "harga_satuan": "8.000",
+      "harga_total_barang": "8.000"
+    },
+    {
+      "nama_barang": "TEPUNG ROTI PANIRKU",
+      "jumlah": "1",
+      "harga_satuan": "7.500",
+      "harga_total_barang": "7.500"
+    },
+    {
+      "nama_barang": "KACANG IJO",
+      "jumlah": "1",
+      "harga_satuan": "15.000",
+      "harga_total_barang": "15.000"
+    },
+    {
+      "nama_barang": "SOKLIN LIQUID 20ML 500",
+      "jumlah": "1",
+      "harga_satuan": "5.000",
+      "harga_total_barang": "5.000"
+    },
+    {
+      "nama_barang": "GENTLEGEN SET",
+      "jumlah": "1",
+      "harga_satuan": "10.000",
+      "harga_total_barang": "10.000"
+    },
+    {
+      "nama_barang": "CALF SERBAGUNA",
+      "jumlah": "1",
+      "harga_satuan": "9.500",
+      "harga_total_barang": "9.500"
+    }
+  ]
+}

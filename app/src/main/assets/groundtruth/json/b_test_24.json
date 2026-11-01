@@ -1,0 +1,49 @@
+{
+  "nama_toko": "PT LION SUPER INDO",
+  "tanggal": "04/12/2021",
+  "total_belanja": "1.002.500",
+  "items": [
+    {
+      "nama_barang": "SEDAAP KARI SPC75",
+      "jumlah": "160",
+      "harga_satuan": "2.590",
+      "harga_total_barang": "414.400",
+      "diskon": "-62.400"
+    },
+    {
+      "nama_barang": "ULTRA PLN 1L",
+      "jumlah": "6",
+      "harga_satuan": "16.990",
+      "harga_total_barang": "101.940",
+      "diskon": "-18.240"
+    },
+    {
+      "nama_barang": "INDOMI GORENG BW/",
+      "jumlah": "160",
+      "harga_satuan": "2.600",
+      "harga_total_barang": "416.000",
+      "diskon": "-38.600"
+    },
+    {
+      "nama_barang": "INDOMIE SOTO SPC",
+      "jumlah": "40",
+      "harga_satuan": "2.590",
+      "harga_total_barang": "103.600",
+      "diskon": "-14.400"
+    },
+    {
+      "nama_barang": "INDOMIE SOTO SPC",
+      "jumlah": "40",
+      "harga_satuan": "2.590",
+      "harga_total_barang": "103.600",
+      "diskon": "-14.400"
+    },
+    {
+      "nama_barang": "SEDAAP KARI SPC75",
+      "jumlah": "5",
+      "harga_satuan": "2.590",
+      "harga_total_barang": "12.950",
+      "diskon": "-1.950"
+    }
+  ]
+}

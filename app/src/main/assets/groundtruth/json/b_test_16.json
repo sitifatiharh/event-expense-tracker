@@ -1,0 +1,25 @@
+{
+  "nama_toko": "sentramatahari1",
+  "tanggal": "16/11/2023",
+  "total_belanja": "1,072,000",
+  "items": [
+    {
+      "nama_barang": "STICK RASA KALDU SAPI EKA RASA",
+      "jumlah": "14",
+      "harga_satuan": "15,000",
+      "harga_total_barang": "210,000"
+    },
+    {
+      "nama_barang": "AMPLANG IKAN TENGGIRI MEI LAN (KOTAK BESAR)",
+      "jumlah": "5",
+      "harga_satuan": "170,000",
+      "harga_total_barang": "850,000"
+    },
+    {
+      "nama_barang": "KARDUS MATAHARI (BESAR)",
+      "jumlah": "1",
+      "harga_satuan": "12,000",
+      "harga_total_barang": "12,000"
+    }
+  ]
+}

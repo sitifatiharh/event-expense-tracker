@@ -1,0 +1,13 @@
+{
+  "nama_toko": "SEDERHANA BALI",
+  "tanggal": "14/07/2023",
+  "total_belanja": "33.000",
+  "items": [
+    {
+      "nama_barang": "Sayur singkong",
+      "jumlah": "3",
+      "harga_satuan": "10.000",
+      "harga_total_barang": "30.000"
+    }
+  ]
+}

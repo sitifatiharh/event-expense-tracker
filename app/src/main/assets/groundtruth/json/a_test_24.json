@@ -1,0 +1,49 @@
+{
+  "nama_toko": "PT. RAMAI SUKSES MAKMUR",
+  "tanggal": "17/12/2025",
+  "total_belanja": "58,550",
+  "items": [
+    {
+      "nama_barang": "PG CLOSE UP 110 NEW HIJAU #48",
+      "jumlah": "1",
+      "harga_satuan": "14,750",
+      "harga_total_barang": "14,750"
+    },
+    {
+      "nama_barang": "NS MINI STICK CRACKERS @10 25G #10",
+      "jumlah": "1",
+      "harga_satuan": "11,850",
+      "harga_total_barang": "11,850"
+    },
+    {
+      "nama_barang": "GOOD TIME 26.5GR CLASSIC #96",
+      "jumlah": "1",
+      "harga_satuan": "1,850",
+      "harga_total_barang": "1,850"
+    },
+    {
+      "nama_barang": "ROMA SARI GANDUM COKLAT 36GR #120",
+      "jumlah": "1",
+      "harga_satuan": "1,850",
+      "harga_total_barang": "1,850"
+    },
+    {
+      "nama_barang": "BISKITOP VEGETABLE AND CHEESE 50GR #40",
+      "jumlah": "1",
+      "harga_satuan": "1,800",
+      "harga_total_barang": "1,800"
+    },
+    {
+      "nama_barang": "ROMA MALKIST ABON 21GR @10 #12",
+      "jumlah": "1",
+      "harga_satuan": "9,100",
+      "harga_total_barang": "9,100"
+    },
+    {
+      "nama_barang": "BAGUS SARUNG TANGAN PLASTIK W- 222551",
+      "jumlah": "1",
+      "harga_satuan": "17,350",
+      "harga_total_barang": "17,350"
+    }
+  ]
+}
