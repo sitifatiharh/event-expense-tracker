@@ -16,7 +16,7 @@ Aplikasi Android untuk melacak biaya pengeluaran berbasis acara menggunakan Opti
 * **Machine Learning:** Google ML Kit & TensorFlow Lite (Viterbi Decoding)
 
 ## Cara Menjalankan Proyek
-1. Clone repositori ini: `git clone https://github.com/sitifatiharh/event-expense-tracker.git`
+1. Clone repositori ini: `git clone https://github.com/sitifatiharh/event-expense-tracker`
 2. Buka proyek menggunakan Android Studio Quail.
 3. Hubungkan perangkat Android fisik atau jalankan emulator.
 4. Lakukan *Sync Project with Gradle Files*.
