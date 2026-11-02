@@ -13,7 +13,7 @@ Aplikasi Android untuk melacak biaya pengeluaran berbasis acara menggunakan Opti
 * **UI Toolkit:** Jetpack Compose
 * **Database Lokal:** Realm Database
 * **State Management:** Preferences DataStore & Coroutines Flow
-* **Machine Learning:** Google ML Kit & TensorFlow Lite (Viterbi Decoding)
+* **Machine Learning:** Google ML Kit & TensorFlow Lite (BiLSTM-CRF & Viterbi Decoding)
 
 ## Cara Menjalankan Proyek
 1. Clone repositori ini: `git clone https://github.com/sitifatiharh/event-expense-tracker`
